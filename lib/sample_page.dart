@@ -43,7 +43,7 @@ class SamplePage extends StatelessWidget {
                         as SampleModel)
                     .countIncrease();
               },
-              child: const Text("click to increase"),
+              child: const Text("launch"),
             );
           })
         ],
